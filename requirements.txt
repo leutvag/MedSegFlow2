@@ -1,9 +1,0 @@
-streamlit
-numpy
-pillow
-tensorflow
-opencv-python
-scikit-image
-matplotlib
-scikit-learn
-seaborn
