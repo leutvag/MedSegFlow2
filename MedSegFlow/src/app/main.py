@@ -10,10 +10,10 @@ import os
 import zipfile
 import io
 import shutil
-import tensorflow as tf
-from tensorflow.keras import layers, models, applications
-from tensorflow.keras.preprocessing.image import ImageDataGenerator, img_to_array, load_img
-from tensorflow.keras.callbacks import EarlyStopping
+# import tensorflow as tf
+# from tensorflow.keras import layers, models, applications
+# from tensorflow.keras.preprocessing.image import ImageDataGenerator, img_to_array, load_img
+# from tensorflow.keras.callbacks import EarlyStopping
 import cv2
 from skimage import measure
 import matplotlib.pyplot as plt
@@ -364,3 +364,4 @@ Features included:
 - Grad-CAM heatmap and contour overlay on uploaded test images.
 - Download buttons for model weights & generated images.
 """)
+
