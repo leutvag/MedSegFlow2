@@ -1,8 +1,9 @@
 streamlit
-torch
-#transformers
-#huggingface-hub
+numpy
+pillow
+tensorflow
 opencv-python
 scikit-image
-Pillow
-numpy
+matplotlib
+scikit-learn
+seaborn
