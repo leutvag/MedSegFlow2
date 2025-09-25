@@ -6,5 +6,4 @@ scikit-image
 matplotlib
 scikit-learn
 seaborn
-tensorflow-cpu==2.13.0
-
+tensorflow
